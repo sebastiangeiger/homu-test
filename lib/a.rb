@@ -1,5 +1,5 @@
 class A
   def value
-    1
+    2
   end
 end
