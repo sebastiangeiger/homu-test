@@ -1,5 +1,5 @@
 class B
   def value
-    2
+    3
   end
 end
